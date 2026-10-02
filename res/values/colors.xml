@@ -1,0 +1,9 @@
+<resources>
+    <color name="bg_normal">#1a1b26</color>
+    <color name="cell_normal">#1a1b26</color>
+    <color name="cell_border">#a9b1d6</color>
+    <color name="score_normal">#e0af68</color>
+    <color name="reset_normal">#f7768e</color>
+    <color name="player_O">#9ece6a</color>
+    <color name="player_X">#ff9e64</color>
+</resources>
